@@ -47,7 +47,7 @@ pip install kiwitcms-tap-plugin
 ```
 - 
 ```
-export JOB_NAME="My Cool tesing job"
+export JOB_NAME="My Cool testing job"
 export TCMS_PRODUCT_VERSION="1"
 export BUILD_NUMBER="1"
 ```
